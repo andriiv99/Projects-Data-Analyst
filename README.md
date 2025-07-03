@@ -1,2 +1,10 @@
 # Projects-Data-Analyst
-The repository contains projects completed as part of the Data Analyst course. The projects include data analysis in Python and PostgreSQL
+Репозиторий содержит проекты, выполненные в рамках курса "Аналитик данных". Проекты включают анализ данных на Python и PostgreSQL.  
+Репозиторий состоит из папок, включающих файлы .ipynb или .sql с кодом решения задач, а также файлы .md  с кратким описанием проектов. Для проектов в SQL дополнительно загружены файлы .docx с аналитической запиской по проекту.  
+Структура репозитория:  
+1. Analysis of the real estate market - проект в SQL по исследованию рынка недвижимости по Санкт-Петербургу и Ленинградской области.  
+2. Business Metrics Research - проект в SQL по исследованию ключевых бизнес-метрик. К проекту создавался дашборд в YandexDatalens, ссылка на дашборд в текстовых файлах.  
+3. EDA of public catering establishments - проект в Python по проведению исследовательского анализа данных заведений общественного питания Москвы.  
+4. Gaming Industry Research - проект в Python по проведению предобработки данных для исследования игровой индустрии.  
+5. Researching startups - проект в Python по изучению инвестиционной привлекательности стартапов.  
+6. Secrets of Darkwood - проект в SQL по изучению покупательной активности игроков в игре.
